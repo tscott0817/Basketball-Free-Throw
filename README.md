@@ -1,12 +1,7 @@
 # Free Throw Basketball Game
-This program is a small basketball game created using only C++, openGL, and GLUT. The goal of the game 
-is to make as many shots as you can until the time runs out. I mainly use concepts from modules 2 and 4 
-with big ones being I/O streams, has-a relationships, and graphics/event handling as a whole. The 
-game asks for a username to be typed in which is then added, along with the player's score, 
-to a file and further displayed in a 'high-scores' screen. The main "component" classes (gameObjects, balls, inputs, scores) work in a modular 
-fashion with one another to produce specific behaviors and effects in the main program. By effect
-of being a game it was needed to include keyboard/mouse inputs, drawing/display of 2d objects, and 
-timers.
+This program is a small basketball game created using C++, openGL, and freeGLUT. The goal 
+is to make as many shots as you can until the time runs out. It also asks the user for their name and keeps track of points in a 
+'high-scores' screen. 
 
 ![Court](https://i.imgur.com/28KJRVC.png)
 
