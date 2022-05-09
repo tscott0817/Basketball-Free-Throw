@@ -8,7 +8,7 @@ fashion with one another to produce specific behaviors and effects in the main p
 of being a game it was needed to include keyboard/mouse inputs, drawing/display of 2d objects, and 
 timers.
 
-![alt text](https://imgur.com/a/I9Oio6v)
+![alt text](https://imgur.com/28KJRVC)
 ## How To Play
 #### Start Menu
     - Type in your username and presss ENTER.
