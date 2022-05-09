@@ -1,4 +1,3 @@
-# Final-Project-tscott5
 # Free Throw Basketball Game
 This program is a small basketball game created using only C++, openGL, and GLUT. The goal of the game 
 is to make as many shots as you can until the time runs out. I mainly use concepts from modules 2 and 4 
@@ -8,6 +7,8 @@ to a file and further displayed in a 'high-scores' screen. The main "component" 
 fashion with one another to produce specific behaviors and effects in the main program. By effect
 of being a game it was needed to include keyboard/mouse inputs, drawing/display of 2d objects, and 
 timers.
+
+![alt text](photos/court.png)
 ## How To Play
 #### Start Menu
     - Type in your username and presss ENTER.
